@@ -1,0 +1,16 @@
+[33mcommit fc6a036e93b3a747aaadb66412aaae73f4396479[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: KTI-Taru <ktaru.iba.du@gmail.com>
+Date:   Wed Feb 11 20:29:16 2026 +0600
+
+    2nd line added
+
+[1mdiff --git a/GitHub/practice.py b/GitHub/practice.py[m
+[1mindex 4444f03..0667bca 100644[m
+[1m--- a/GitHub/practice.py[m
+[1m+++ b/GitHub/practice.py[m
+[36m@@ -2,3 +2,5 @@[m [mprint("Khan Tarikul Islam Taru")[m
+ [m
+ print("Hi")[m
+ [m
+[41m+[m
+[41m+[m
